@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: festival-info
+spec:
+  selector:
+    app: festival-info
+  ports:
+    - port: 80
+      targetPort: 80
