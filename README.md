@@ -1,0 +1,2 @@
+# festival-gitops
+ArgoCD lab
